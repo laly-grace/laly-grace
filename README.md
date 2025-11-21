@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height=50 src="https://avatars.githubusercontent.com/u/190211998?v=4" alt="laly-grace" /></a> </p>
+
 
 - 🌱 I’m currently learning **Docker, Kubernetes**
 
@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laly-grace&show_icons=true&locale=en&layout=compact&theme=radical" alt="laly-grace" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laly-grace&show_icons=true&locale=en&theme=radical" alt="laly-grace" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laly-grace&show_icons=true&locale=en&theme=radical&hide=stars" alt="laly-grace" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laly-grace&theme=radical" alt="laly-grace" /></p>
