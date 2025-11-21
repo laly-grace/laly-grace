@@ -1,8 +1,8 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Lelisa%20Merga&textBg=false&fontSize=39&fontAlign=50&animation=twinkling&reversal=true" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Lelisa%20Merga%20(Laly%20Grace)&textBg=false&fontSize=39&fontAlign=50&animation=twinkling&reversal=true" /></p>
 
 
 
-<p align="center"><a align="center" href="https://github.com/laly-grace"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=2000&pause=1000&width=1500&height=70&lines=A+passionated+Full+Stack+%26+Cross+Platform+mobile+app+developer+from+Oromia%2C+Ethiopia" alt="Typing SVG" /></a></p>
+<p align="center"><a align="center" href="https://github.com/laly-grace"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=500&pause=5000&width=1500&height=70&lines=A+passionated+Full+Stack+%26+Cross+Platform+mobile+app+developer+from+Oromia%2C+Ethiopia" alt="Typing SVG" /></a></p>
 <p></p>
 
 
